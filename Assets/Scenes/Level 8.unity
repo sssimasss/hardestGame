@@ -962,7 +962,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 4820908089460668527, guid: a433e4017b37d4201986b79ba4247ce7, type: 3}
       propertyPath: nextScene
-      value: Level 8
+      value: Level 1
       objectReference: {fileID: 0}
     - target: {fileID: 5824180157261262290, guid: a433e4017b37d4201986b79ba4247ce7, type: 3}
       propertyPath: m_Name
@@ -1262,7 +1262,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 4820908089460668527, guid: a433e4017b37d4201986b79ba4247ce7, type: 3}
       propertyPath: nextScene
-      value: Level 8
+      value: Level 1
       objectReference: {fileID: 0}
     - target: {fileID: 5824180157261262290, guid: a433e4017b37d4201986b79ba4247ce7, type: 3}
       propertyPath: m_Name
